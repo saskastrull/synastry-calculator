@@ -1,5 +1,7 @@
 # Custom Synastry Calculator
 ## Overview
+Hobby project I developed in Java purely for fun, with Java Swing used for the GUI. 
+
 Input two **custom** natal charts and get their synastry report, with a list of all aspects as well as each planet's total stats - green for positive and red for negative.
 
 ### Notes
